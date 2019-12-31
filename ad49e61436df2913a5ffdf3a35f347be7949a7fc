@@ -1,0 +1,1 @@
+{"jobID":"7a707170-bde7-d447-6667-929bc50222cb","spec":{"type":"policy","cause":{"Message":"","User":"Quoc Bao Nguyen \u003cpunkupoz@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
